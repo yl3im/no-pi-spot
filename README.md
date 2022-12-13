@@ -17,6 +17,7 @@ This project goal is to provide an easy start with running your MMDVM hotspot wi
 * Enter the `no-pi-spot` directory
 * Edit the `config/dmr-direct/MMDVM.ini` configuration file according to your identification. 
 * Run `./bin/MMDVMHost config/dmr-direct/MMDVM.ini` — your hotspot will then be accessible on 439.800 MHz frequency, CC1, TS2.
+* Press `Ctrl-C` to exit.
 
 ## ToDo
 * Docker support.
